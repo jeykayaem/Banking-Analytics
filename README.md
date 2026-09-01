@@ -280,8 +280,9 @@ These interactions make the report an **interactive analytical tool rather than 
 ### Interactive Report
 **Banking Customer & Loan Analytics**
 The report is publicly accessible through the Power BI web viewer.
-🔗 View Interactive Power BI Dashboard
+Explore the published Power BI report:
 
+**[Open the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTYzOWY0YTUtZGY0Ni00NjlhLWI0NjUtOGYzYjY1ODQzYWVmIiwidCI6IjdmYTVlZDRlLWFmM2UtNDMzZi1iYjEzLTg4NzE0ODc3ZmQ3NSJ9)**
 
 # 📈 Key Business Insights
 
