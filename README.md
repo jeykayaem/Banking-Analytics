@@ -159,7 +159,7 @@ Provides a management-level snapshot of the customer and lending portfolio.
 * Accounts by Type
 * Loan Penetration by Credit Score Band
 
-![Executive Dashboard](bank_projects/banking_dataset_kaggle/data/screenshots/01_Executive_Overview.png)
+![Executive Dashboard](data/screenshots/01_Executive_Overview.png)
 
 ---
 
