@@ -280,10 +280,8 @@ These interactions make the report an **interactive analytical tool rather than 
 ### Interactive Report
 **Banking Customer & Loan Analytics**
 The report is publicly accessible through the Power BI web viewer.
+🔗 View Interactive Power BI Dashboard
 
-**Power BI Report:**
-<iframe title="Banking Customer & Loan Analytics" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYTYzOWY0YTUtZGY0Ni00NjlhLWI0NjUtOGYzYjY1ODQzYWVmIiwidCI6IjdmYTVlZDRlLWFmM2UtNDMzZi1iYjEzLTg4NzE0ODc3ZmQ3NSJ9" frameborder="0" allowFullScreen="true"></iframe>
----
 
 # 📈 Key Business Insights
 
@@ -547,7 +545,7 @@ banking-dataset-kaggle/
 │   ├── screenshots/
 │   └── sql_script/
 │
-├── Banking_Analytics_Dashboard.pbix
+├── Banking Customer & Loan Analytics.pbix
 │
 └── README.md
 ```
